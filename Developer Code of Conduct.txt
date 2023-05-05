@@ -1,0 +1,14 @@
+We as the team members agree to these standards while we develop this game together.
+
+1. We will be civil towards each other and respect each other's opinions at all times. 
+2. If two of us have a disagreement we will try to find a compromise with the third member being a mediator if need be.
+3. Descisions made based on risk should be respected and can always be looked at to implement later on in the project.
+4. We should respect deadlines, but know that if we have an emergency, we can extend those deadlines.
+5. The Quality should be good on all of our work and not stuff created in what looks like five minutes.
+6. We should all work together on a commit to the project, and if errors ensue, the code should be shared with the member holding the main game to implement without error.
+7. We all agree to these arrangements and all agree to stay polite.
+
+Signed, 
+Coleman Bready (Sai)
+Gabriela Bonilla (Gabby)
+Kai Amess (Kai)
