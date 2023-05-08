@@ -8139,3 +8139,685 @@ Script Stack (0 frames):
 [2023.05.08-13.25.50:027][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.05.08-13.25.50:035][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
 [2023.05.08-13.25.50:057][600]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.05.08-13.29.10:370][814]MapCheck: New page: Map Check
+[2023.05.08-13.29.10:477][814]Cmd: MAP REBUILD ALLVISIBLE
+[2023.05.08-13.29.10:478][814]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.05.08-13.29.10:565][814]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2023.05.08-13.29.11:199][814]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.05.08-13.29.11:200][814]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.05.08-13.29.11:200][814]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.05.08-13.29.11:251][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.05.08-13.29.11:259][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:264][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:266][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:267][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:268][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:270][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:271][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2023.05.08-13.29.11:271][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2023.05.08-13.29.11:271][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.05.08-13.29.11:271][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2023.05.08-13.29.11:271][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:272][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:276][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:277][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:279][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:282][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2023.05.08-13.29.11:322][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:324][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:326][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:328][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:330][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:333][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:335][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:337][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:339][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:341][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:343][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:346][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:348][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:350][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:353][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:355][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:356][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:358][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:360][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:362][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:363][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:365][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:367][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:369][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:371][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:372][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:374][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:376][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:378][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:380][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:382][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:383][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:386][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:391][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:393][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:395][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:397][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:399][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:402][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:404][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:406][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:408][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:410][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:412][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.11:416][814]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 155
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 154
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 153
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 150
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 149
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 148
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 147
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 145
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 144
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 143
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 142
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 141
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 140
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 139
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 138
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 137
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 136
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 135
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 134
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 133
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 132
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 131
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 129
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 128
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 127
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 125
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 124
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 123
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 122
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 121
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 120
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 119
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 118
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 117
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 116
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 115
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 114
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 113
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 112
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 111
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 109
+[2023.05.08-13.29.22:918][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 107
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 105
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 104
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 103
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 102
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 101
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 99
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 98
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 97
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 95
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 94
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 93
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 89
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 85
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 83
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 81
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 80
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 79
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 69
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 67
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2023.05.08-13.29.22:919][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2023.05.08-13.29.22:920][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.08-13.29.22:920][814]TextureStreamingBuild: Display: Compiling optional shaders took 11.662 seconds.
+[2023.05.08-13.29.23:174][814]LogLevel: Display: Export Material TexCoord Scales took 0.255 seconds.
+[2023.05.08-13.29.23:188][814]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2023.05.08-13.29.23:204][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.05.08-13.29.23:224][814]LightingResults: New page: Lighting Build - May 8, 2023, 3:29:23 PM
+[2023.05.08-13.29.23:341][814]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.05.08-13.29.23:424][814]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.05.08-13.29.23:438][814]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.05.08-13.29.24:473][814]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.05.08-13.29.24:473][814]LogSwarmInterface: [TryOpenConnection] Local Process ID is 44220
+[2023.05.08-13.29.31:733][814]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.05.08-13.29.31:733][814]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.05.08-13.29.31:733][814]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.05.08-13.29.31:733][814]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.05.08-13.29.31:733][814]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.05.08-13.29.32:140][814]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.05.08-13.29.32:140][814]MapCheck: New page: ThirdPersonExampleMap - May 8, 2023, 3:29:32 PM
+[2023.05.08-13.29.32:142][814]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2023.05.08-13.29.32:147][814]MapCheck: Warning: DragonTheSoulEaterSK_Blueprint Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.05.08-13.29.32:147][814]MapCheck: Warning: DragonTheSoulEaterSK_Blueprint Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.05.08-13.29.32:148][814]MapCheck: Warning: DragonTheSoulEaterSK_Blueprint2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.05.08-13.29.32:148][814]MapCheck: Map check complete: 1 Error(s), 3 Warning(s), took 6.997ms to complete.
+[2023.05.08-13.29.32:151][814]LogEditorBuildUtils: Build time 0:21
+[2023.05.08-13.29.32:296][814]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.08-13.29.32:355][815]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BlueCube, compiling. 
+[2023.05.08-13.29.32:360][815]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BlueCube, compiling. 
+[2023.05.08-13.29.32:414][815]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.08-13.29.32:414][815]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.08-13.29.32:479][816]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Color_Gray, compiling. 
+[2023.05.08-13.29.32:484][816]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.08-13.29.32:484][816]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.08-13.29.32:484][816]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Color_Gray, compiling. 
+[2023.05.08-13.29.32:574][817]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Picture, compiling. 
+[2023.05.08-13.29.32:580][817]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Picture, compiling. 
+[2023.05.08-13.29.32:742][818]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Art_2, compiling. 
+[2023.05.08-13.29.33:064][818]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2023.05.08-13.29.33:064][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2023.05.08-13.29.33:064][818]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Art_2, compiling. 
+[2023.05.08-13.29.33:260][819]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2023.05.08-13.29.34:237][820]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.08-13.29.34:237][820]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2023.05.08-13.29.34:237][820]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2023.05.08-13.29.35:422][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.08-13.31.36:459][187]LightingResults: Warning: Cylinder_Brush2_StaticMesh Object has wrapping UVs.
+[2023.05.08-13.31.59:923][256]Job is a success!
+[2023.05.08-13.32.00:525][257]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.029s
+[2023.05.08-13.32.00:525][257]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.05.08-13.32.00:526][257]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.05.08-13.32.00:526][257]LogVolumetricLightmapImport:      Bricks at depth
+[2023.05.08-13.32.00:526][257]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2023.05.08-13.32.00:526][257]LogVolumetricLightmapImport:          1: 5.5% covering 6.2% of volume
+[2023.05.08-13.32.00:526][257]LogVolumetricLightmapImport:          2: 93.2% covering 1.7% of volume
+[2023.05.08-13.32.00:526][257]LogVolumetricLightmapImport:      Bricks in each level
+[2023.05.08-13.32.00:526][257]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 73 bricks 	 100.0% (Persistent Level)
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight15 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight16 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight13 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight17 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight19 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight20 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight22 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:355][257]LightingResults: Warning: PointLight23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: SpotLight_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight_5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight27_8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight25_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight31_20 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight38_41 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight39_44 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight37_38 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight35_32 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight34_29 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:356][257]LightingResults: Warning: PointLight26_5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:357][257]LightingResults: Warning: PointLight29_14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:357][257]LightingResults: Warning: PointLight32_23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:357][257]LightingResults: Warning: PointLight33_26 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.02:357][257]LightingResults: Warning: PointLight30_17 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 512X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:315][257]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_34 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_35 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: SkyOcclusion0_36 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:316][257]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_37 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_38 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_39 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_40 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_41 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_42 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_43 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_44 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_45 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_46 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_47 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_48 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_49 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_50 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_51 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_52 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_53 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_54 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 256X256)
+[2023.05.08-13.32.16:317][257]LogTexture: Display: Building textures: SkyOcclusion0_55 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_56 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_57 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_58 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_59 (AutoDXT, 512X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 512X512)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 512X512)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_60 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_61 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_62 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_63 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_64 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_65 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_66 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_67 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_68 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_69 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_70 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_71 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_72 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_73 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 256X256)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_74 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:318][257]LogTexture: Display: Building textures: SkyOcclusion0_75 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_76 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_76 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (DXT1, 256X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_77 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_77 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (DXT1, 256X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_78 (AutoDXT, 1024X512)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 1024X1024)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 1024X1024)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_79 (AutoDXT, 128X64)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_80 (AutoDXT, 128X64)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_80 (AutoDXT, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (DXT1, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_81 (AutoDXT, 128X64)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_81 (AutoDXT, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (DXT1, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_82 (AutoDXT, 128X64)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_82 (AutoDXT, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_82 (DXT1, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_83 (AutoDXT, 128X64)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_83 (AutoDXT, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_83 (DXT1, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_84 (AutoDXT, 128X64)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_84 (AutoDXT, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_84 (DXT1, 128X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_85 (AutoDXT, 512X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_85 (AutoDXT, 512X512)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_85 (DXT1, 512X512)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_86 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_86 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_86 (DXT1, 256X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: SkyOcclusion0_87 (AutoDXT, 256X128)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: HQ_Lightmap0_87 (AutoDXT, 256X256)
+[2023.05.08-13.32.16:319][257]LogTexture: Display: Building textures: LQ_Lightmap_0_87 (DXT1, 256X256)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 256X256)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 512X512)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 512X256)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 128X128)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 128X128)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 128X128)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 128X128)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 128X128)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 128X128)
+[2023.05.08-13.32.16:716][257]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 128X128)
+[2023.05.08-13.32.16:926][257]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2023.05.08-13.32.16:937][257]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 128X128)
+[2023.05.08-13.32.16:937][257]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 128X128)
+[2023.05.08-13.32.17:107][257]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (BGRA8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (BGRA8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (BGRA8, 1024X256)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 128X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (BGRA8, 64X64)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 128X64)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (BGRA8, 1024X128)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 128X64)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 64X64)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 64X64)
+[2023.05.08-13.32.17:108][257]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 64X64)
+[2023.05.08-13.32.17:140][257]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2023.05.08-13.32.17:140][257]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (BGRA8, 64X64)
+[2023.05.08-13.32.17:140][257]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 32X32)
+[2023.05.08-13.32.17:140][257]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (BGRA8, 1024X256)
+[2023.05.08-13.32.17:140][257]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (BGRA8, 1024X256)
+[2023.05.08-13.32.17:140][257]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (BGRA8, 1024X512)
+[2023.05.08-13.32.17:140][257]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (BGRA8, 1024X1024)
+[2023.05.08-13.32.17:309][257]Lightmass on LAPTOP-6DNC53I8: 2:40 min total, 4.33 sec importing, 790 ms setup, 18.8 sec photons, 2:16 min processing, 0 ms extra exporting [8090/8091 mappings]. Threads: 15:57 min total, 8:48 min processing.
+[2023.05.08-13.32.17:317][257]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 1413 meshes in 145 LightmapResourceClusters (9.7 Meshes per cluster).
+[2023.05.08-13.32.17:345][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.08-13.32.17:482][257]LogStaticLightingSystem: Illumination: 2:53 min (13.9 sec encoding lightmaps, 834 ms encoding shadowmaps)
+[2023.05.08-13.32.17:482][257]LogStaticLightingSystem: Lightmap texture memory:  65.8 MB (63.1 MB streaming, 2.7 MB non-streaming), 174 textures
+[2023.05.08-13.32.17:482][257]LogStaticLightingSystem: Shadowmap texture memory: 43.5 MB (43.2 MB streaming, 0.3 MB non-streaming), 82 textures
+[2023.05.08-13.32.17:647][257]DumpUnbuiltLightIteractions
+[2023.05.08-13.32.17:647][257]Lights with unbuilt interactions: 0
+[2023.05.08-13.32.17:647][257]
+[2023.05.08-13.32.17:647][257]Primitives with unbuilt interactions: 0
+[2023.05.08-13.32.18:248][257]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.05.08-13.32.18:374][258]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.05.08-13.32.18:374][258]MapCheck: New page: ThirdPersonExampleMap - May 8, 2023, 3:32:18 PM
+[2023.05.08-13.32.18:380][258]MapCheck: Warning: DragonTheSoulEaterSK_Blueprint Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.05.08-13.32.18:380][258]MapCheck: Warning: DragonTheSoulEaterSK_Blueprint Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.05.08-13.32.18:380][258]MapCheck: Warning: DragonTheSoulEaterSK_Blueprint2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.05.08-13.32.18:380][258]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 6.215ms to complete.
+[2023.05.08-13.32.52:592][431]LogSlate: Window 'Message Log' being destroyed
+[2023.05.08-13.32.52:658][431]LogSlate: Window 'Message Log' being destroyed
+[2023.05.08-13.32.56:708][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.05.08-13.32.57:292][623]LogSavePackage: Moving '../../../../../../Users/brick/OneDrive/Documents/GitHub/Games-Class-2023-Spring/CollissionTests/Saved/ThirdPersonExampleMapCA3A4DDB43A9A8B3022CA08D8C4C1C62.tmp' to '../../../../../../Users/brick/OneDrive/Documents/GitHub/Games-Class-2023-Spring/CollissionTests/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.08-13.33.03:222][623]LogSavePackage: Moving '../../../../../../Users/brick/OneDrive/Documents/GitHub/Games-Class-2023-Spring/CollissionTests/Saved/ThirdPersonExampleMap_BuiltData9BD69B414707801BA2B5A9B8F461B8FD.tmp' to '../../../../../../Users/brick/OneDrive/Documents/GitHub/Games-Class-2023-Spring/CollissionTests/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.05.08-13.33.03:296][623]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.08-13.33.03:296][623]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.05.08-13.33.03:297][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
